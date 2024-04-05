@@ -1,4 +1,6 @@
-### Hi there 👋
+# 이정현 Junghyun Lee
+
+[CV here](afpine.github.io)
 
 <!--
 **AFpine/AFpine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
